@@ -1,7 +1,4 @@
 Curso Git y LaTex primer módulo
 en algun momento de mi vida resolveré esto
-modi 1
-modi 2
-Modi 3
-modi 4
+en algúnlugar de la mancha de cuyo nombre no quiero acordarme
 FIN
