@@ -1,2 +1,8 @@
-curso git y latex módulo 1
-Modificado
+Curso Git y LaTex primer módulo
+modi 1
+modi 2
+Modi 3
+modi 4
+modificacion pagina web
+FIN
+
