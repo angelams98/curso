@@ -1,3 +1,9 @@
 ficheroooooo
 modificado
+<<<<<<< HEAD
 lkskjaflsa
+=======
+holaaa
+kdsnflsk
+kdsfjksafkj
+>>>>>>> rama1
